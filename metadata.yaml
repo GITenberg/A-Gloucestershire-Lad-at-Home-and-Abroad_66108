@@ -1,5 +1,8 @@
 _repo: A-Gloucestershire-Lad-at-Home-and-Abroad_66108
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66108-h/images/cover.jpg
 creator:
   author:
     agent_name: Harvey, F. W. (Frederick William)
@@ -13,6 +16,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/F._W._Harvey
 description: '"Most of these poems were written at the Front and appeared in the Fifth
   Gloucestershire gazette[.]"--Preface'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66108#A-Gloucestershire-Lad-at-Home-and-Abroad
 gutenberg_issued: '2021-08-22'
 identifiers:
   gutenberg: '66108'
